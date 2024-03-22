@@ -1,0 +1,20 @@
+{
+  "name": "placeatautem",
+  "workspaces": [
+    "example-nextjs",
+    "example-react",
+    "idkit"
+  ],
+  "devDependencies": {
+    "cspell": "6.17.0"
+  },
+  "author": "HadleyConroy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CliftonKovacek/placeatautem.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CliftonKovacek/placeatautem.git/issues"
+  },
+  "version": "1.0.0"
+}
